@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
+### I'm Ja Pothirak
+
+I enjoy watching movies and surfing the Internet. And I tend to spend a lot of time studying and experimenting with the automation of home IoT systems. With open source software such as Home Assistant and Node Red.
 
 <!--
 **pothirak/pothirak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
